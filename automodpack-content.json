@@ -6,15 +6,6 @@
   "mcVersion": "1.21.9",
   "list": [
     {
-      "file": "/mods/fabric-api-0.133.14+1.21.9.jar",
-      "size": "2288874",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "1c8e58bd3e39e4235a2dd86a4f11de61014e83cd",
-      "murmur": "2910244288"
-    },
-    {
       "file": "/resourcepacks/FreshAnimations_v1.10.1.zip",
       "size": "815824",
       "type": "resourcepack",
@@ -24,6 +15,42 @@
       "murmur": "1031662051"
     },
     {
+      "file": "/mods/fabric-api-0.133.14+1.21.9.jar",
+      "size": "2288874",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1c8e58bd3e39e4235a2dd86a4f11de61014e83cd",
+      "murmur": "2910244288"
+    },
+    {
+      "file": "/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+      "size": "456328",
+      "type": "shader",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4",
+      "murmur": "1950347533"
+    },
+    {
+      "file": "/mods/sodium-fabric-0.7.0+mc1.21.9.jar",
+      "size": "1649197",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "78facebc00d55562922ad70888b9933522c36806",
+      "murmur": "705728436"
+    },
+    {
+      "file": "/mods/WilderWild-4.1-mc1.21.9.jar",
+      "size": "32570548",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4a0b8de68831a29941794ba1a570d05c3790ae30",
+      "murmur": "1543569095"
+    },
+    {
       "file": "/mods/FrozenLib-2.2-mc1.21.9.jar",
       "size": "1628761",
       "type": "mod",
@@ -31,6 +58,15 @@
       "forceCopy": false,
       "sha1": "60509e592ea53af16487d8edddbb14740fbd2881",
       "murmur": "3559635837"
+    },
+    {
+      "file": "/mods/alternate-current-mc1.21.9-1.9.0.jar",
+      "size": "53296",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b7f63768ac688ecb423865c688a6efdaaff205a8",
+      "murmur": "3810355029"
     },
     {
       "file": "/mods/iris-fabric-1.9.3+mc1.21.9.jar",
@@ -51,32 +87,6 @@
       "murmur": "1312091645"
     },
     {
-      "file": "/mods/alternate-current-mc1.21.9-1.9.0.jar",
-      "size": "53296",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "b7f63768ac688ecb423865c688a6efdaaff205a8",
-      "murmur": "3810355029"
-    },
-    {
-      "file": "/mods/sodium-fabric-0.7.0+mc1.21.9.jar",
-      "size": "1649197",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "78facebc00d55562922ad70888b9933522c36806",
-      "murmur": "705728436"
-    },
-    {
-      "file": "/mods/lithium-fabric-0.19.0+mc1.21.9.jar.bad",
-      "size": "829851",
-      "type": "other",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "efea90bc292edb85b1b72d456bd6962f732e3403"
-    },
-    {
       "file": "/mods/vmp-fabric-mc1.21.9-0.2.0+beta.7.212-all.jar",
       "size": "417989",
       "type": "mod",
@@ -86,22 +96,13 @@
       "murmur": "399761593"
     },
     {
-      "file": "/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
-      "size": "456328",
-      "type": "shader",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4",
-      "murmur": "1950347533"
-    },
-    {
-      "file": "/mods/WilderWild-4.1-mc1.21.9.jar",
-      "size": "32570548",
+      "file": "/mods/lithium-fabric-0.19.1+mc1.21.9.jar",
+      "size": "830020",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "4a0b8de68831a29941794ba1a570d05c3790ae30",
-      "murmur": "1543569095"
+      "sha1": "1e6fd603a9a872fede100f59fcddfe193be10065",
+      "murmur": "3298723725"
     }
   ]
 }
