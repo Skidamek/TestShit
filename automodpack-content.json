@@ -69,15 +69,6 @@
       "murmur": "3810355029"
     },
     {
-      "file": "/mods/iris-fabric-1.9.3+mc1.21.9.jar",
-      "size": "2707422",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": true,
-      "sha1": "fc8360591f5567eef97ed34f218d900262160baa",
-      "murmur": "3946876407"
-    },
-    {
       "file": "/mods/more_mobs-v1.5.7-mc1.14-1.21.9-mod.jar",
       "size": "368480",
       "type": "mod",
