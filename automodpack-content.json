@@ -76,15 +76,6 @@
       "forceCopy": false,
       "sha1": "a4c205eecba7fa0d231dea698c5ad63419ae1608",
       "murmur": "1312091645"
-    },
-    {
-      "file": "/main/mods/ferritecore-8.0.0-fabric.jar",
-      "size": "79653",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": true,
-      "sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
-      "murmur": "2947957054"
     }
   ]
 }
