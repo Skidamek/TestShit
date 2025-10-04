@@ -82,7 +82,7 @@
       "size": "79653",
       "type": "mod",
       "editable": false,
-      "forceCopy": false,
+      "forceCopy": true,
       "sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
       "murmur": "2947957054"
     }
