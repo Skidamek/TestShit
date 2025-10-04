@@ -87,6 +87,15 @@
       "murmur": "1312091645"
     },
     {
+      "file": "/main/mods/ferritecore-8.0.0-fabric.jar",
+      "size": "79653",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
+      "murmur": "2947957054"
+    },
+    {
       "file": "/mods/vmp-fabric-mc1.21.9-0.2.0+beta.7.212-all.jar",
       "size": "417989",
       "type": "mod",
