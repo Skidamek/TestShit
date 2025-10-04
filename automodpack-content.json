@@ -94,15 +94,6 @@
       "forceCopy": false,
       "sha1": "23b9c12ab4d3badb31a1869cb193d3bef6129c49",
       "murmur": "399761593"
-    },
-    {
-      "file": "/mods/lithium-fabric-0.19.1+mc1.21.9.jar",
-      "size": "830020",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "1e6fd603a9a872fede100f59fcddfe193be10065",
-      "murmur": "3298723725"
     }
   ]
 }
