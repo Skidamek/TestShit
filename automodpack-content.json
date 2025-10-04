@@ -94,15 +94,6 @@
       "forceCopy": false,
       "sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
       "murmur": "2947957054"
-    },
-    {
-      "file": "/mods/vmp-fabric-mc1.21.9-0.2.0+beta.7.212-all.jar",
-      "size": "417989",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": true,
-      "sha1": "23b9c12ab4d3badb31a1869cb193d3bef6129c49",
-      "murmur": "399761593"
     }
   ]
 }
